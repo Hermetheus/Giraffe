@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{EB1B34F1-7D63-4744-A86D-56ADD844906E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCalculator", "BasicCalculator\BasicCalculator.csproj", "{3FBCA96F-2746-48A5-825C-9D54C2BDF79A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EB1B34F1-7D63-4744-A86D-56ADD844906E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1B34F1-7D63-4744-A86D-56ADD844906E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1B34F1-7D63-4744-A86D-56ADD844906E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBCA96F-2746-48A5-825C-9D54C2BDF79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBCA96F-2746-48A5-825C-9D54C2BDF79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBCA96F-2746-48A5-825C-9D54C2BDF79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBCA96F-2746-48A5-825C-9D54C2BDF79A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
