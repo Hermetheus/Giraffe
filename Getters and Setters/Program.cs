@@ -15,8 +15,8 @@ namespace Getters_and_Setters
             Movies shrek = new Movies("Shrek", "Adam Adamson", "PG");
             // G, PG, PG-13, R, NR
 
-
-            Console.WriteLine(avengers.Rating);
+            shrek.Rating = "R";
+            Console.WriteLine(shrek.Rating);
 
 
             Console.ReadLine();
